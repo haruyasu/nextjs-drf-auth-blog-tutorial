@@ -2,9 +2,9 @@
 
 このリポジトリは、Next.js14 と Django5 で作る！ブログシステム構築入門に関するものです。
 
-![画像]()
+![画像](https://res.cloudinary.com/dhaciqd0v/image/upload/v1703134104/LINE/youtube_nmyakz.png)
 
-[動画チュートリアル]()
+[動画チュートリアル](https://youtu.be/TaF0M0eCt0A)
 
 [解説](https://zenn.dev/hathle/books/next-drf-auth-blog-book)
 
